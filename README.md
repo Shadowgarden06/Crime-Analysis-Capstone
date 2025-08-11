@@ -1,28 +1,58 @@
 # Crime-Analysis-Capstone
 Capstone Project for Data Mining – Crime data analysis using Python, Power BI, and Excel
 
-1. Introduction
-The Crime Analysis Capstone project is a comprehensive data analytics and visualization initiative that aims to examine crime patterns, trends, and distributions using publicly available datasets from the Crime Statistics Agency (Victoria).
-By leveraging techniques in data cleaning, exploratory data analysis (EDA), statistical modeling, and dashboard reporting, this project seeks to:
+Crime-Analysis-Capstone
+Crime data analysis using Python, Power BI, and Excel – Capstone Project for Data Mining.
 
-Understand the types of crimes most prevalent in Victoria.
+📌 Overview
+The Crime Analysis Capstone is a comprehensive data analytics and visualization project aimed at examining crime patterns, trends, and distributions using publicly available datasets from the Crime Statistics Agency (Victoria).
+The project involves:
 
-Identify geographical hotspots for various offenses.
+Understanding prevalent crime types in Victoria
 
-Detect temporal patterns such as seasonal or monthly crime fluctuations.
+Identifying geographical hotspots
 
-Provide actionable insights to inform decision-making and public awareness.
+Detecting temporal crime patterns
 
-The project workflow includes:
+Providing actionable insights through interactive dashboards
 
-Data Acquisition – Downloading datasets from the official source.
+🛠 Technologies Used
 
-Data Preparation – Cleaning, transforming, and standardizing the dataset.
+Data Analysis: Python (pandas, matplotlib, seaborn)
 
-Exploratory Data Analysis (EDA) – Visualizing patterns, distributions, and correlations.
+Visualization: Power BI, Excel
 
-Statistical/ML Modeling – Applying predictive or explanatory models where applicable.
+Data Source: Crime Statistics Agency (Victoria) – https://crimestatistics.vic.gov.au/
 
-Dashboard Reporting – Presenting findings via an interactive Power BI dashboard.
+Documentation & Version Control: GitHub, MS Word
 
-This capstone is a collaborative effort, with clearly defined tasks for each team member to ensure effective workflow and accountability.
+👨‍💻 My Role (Trần Công Khôi)
+
+Get the Data – Collected and cleaned the dataset from CSA (Victoria) ensuring accuracy and consistency.
+
+Prepare the Data – Performed initial transformations, handled missing values, standardized formats, and created derived fields.
+
+Communicate the Results – Interpreted findings, compiled project documentation, and delivered an interactive Power BI dashboard with an executive summary.
+
+🚀 How to Run
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/Crime-Analysis-Capstone.git
+cd Crime-Analysis-Capstone
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run Jupyter Notebook for analysis:
+
+bash
+Copy
+Edit
+jupyter notebook
+Open the dashboard in Power BI (Crime_Analysis_Dashboard.pbix).
