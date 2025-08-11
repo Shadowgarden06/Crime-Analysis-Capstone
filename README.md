@@ -24,8 +24,11 @@ The project involves:
   -Documentation & Version Control: GitHub, MS Word
 
 👨‍💻 My Role (Trần Công Khôi)
+
   -Get the Data – Collected and cleaned the dataset from CSA (Victoria) ensuring accuracy and consistency.
+  
   -Prepare the Data – Performed initial transformations, handled missing values, standardized formats, and created derived fields.
+  
   -Communicate the Results – Interpreted findings, compiled project documentation, and delivered an interactive Power BI dashboard with an executive summary.
 
 🚀 How to Run
