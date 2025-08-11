@@ -4,15 +4,23 @@ Crime data analysis using Python, Power BI, and Excel – Capstone Project for D
 📌 Overview
 The Crime Analysis Capstone project is a comprehensive data analytics and visualization initiative that aims to examine crime patterns, trends, and distributions using publicly available datasets from the Crime Statistics Agency (Victoria).
 The project involves:
+
   -Understanding prevalent crime types in Victoria
+  
   -Identifying geographical hotspots
+  
   -Detecting temporal crime patterns
+  
   -Providing actionable insights through interactive dashboards
 
 🛠 Technologies Used
+
   -Data Analysis: Python (pandas, matplotlib, seaborn)
+  
   -Visualization: Power BI, Excel
+  
   -Data Source: Crime Statistics Agency (Victoria) – https://crimestatistics.vic.gov.au/
+  
   -Documentation & Version Control: GitHub, MS Word
 
 👨‍💻 My Role (Trần Công Khôi)
